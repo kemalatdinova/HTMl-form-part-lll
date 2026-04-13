@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      select{
+        border-radius: 5px;
+        padding-left: 5px;
+        padding-right: 5px;
+      }
+    </style>
+  </head>
+  <body>
+    <input type="text" placeholder="atinizdi kiritin"><br>
+    <br>
+    <label for="">menin jaqsi koretugin miywem</label><br>
+    <br>
+    <select >
+      <option >alma</option>
+      <option >anjir</option>
+      <option >anar</option>
+      <option >shiye</option>
+      <option >almurt</option>
+      <option >mandarin</option>
+      <option >kivi</option>
+      <option >apelsin</option>
+      <option >qulpinay</option>
+      <option >juzim</option>
+      <option >banan</option>
+    </select><br>
+    <br>
+    <label>Ne ushin?</label><br>
+    <br>
+    <textarea placeholder="sebebin aytin"
+    rows="5"></textarea>
+  </body>
+</html>
